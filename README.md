@@ -1,10 +1,15 @@
 ### Hello, I'm Patrick! 👋
-I'm a backend software engineer 🖥️
+[![LinkedIn badge](https://img.shields.io/badge/Patrick_Sungkharisma-30302f?style=flat&logo=linkedin)](https://id.linkedin.com/in/patrick-sungkharisma)
 
-Currently working at Tokopedia ![alt text](https://github.com/patricksungkharisma/patricksungkharisma/tokopedia.jpg)
+🖥️ I'm a backend software engineer
 
+🧑‍💼 Currently working at Tokopedia
 
-### Github Stats 
+🤝 Owner of @[creasitestudio](https://github.com/creasitestudio) together with [Wina Tungmiharja](https://github.com/winatungmiharja)
+
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricksungkharisma&show_icons=true&theme=omni)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricksungkharisma&show_icons=true&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills

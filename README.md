@@ -5,7 +5,7 @@
 
 🧑‍💼 Currently working at Tokopedia
 
-🤝 Owner of @[creasitestudio](https://github.com/creasitestudio) together with [Wina Tungmiharja](https://github.com/winatungmiharja)
+🤝 Own @[creasitestudio](https://github.com/creasitestudio) together with [Wina Tungmiharja](https://github.com/winatungmiharja)
 
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricksungkharisma&show_icons=true&theme=omni)
